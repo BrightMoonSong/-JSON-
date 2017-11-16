@@ -1,0 +1,11 @@
+http://www.ourd3js.com/wordpress/739/
+
+解压缩后有两个文件夹和一个 JSON 文件：
+
+geometryCouties：各市~县的数据
+geometryProvince：各省~市的数据
+china.json：中国~省的数据
+
+
+网友寻梦使用此数据制作了一个将GDP数据在地图上进行可视化的作品，供大家观赏。
+http://www.ourd3js.com/collection/xunmeng/GDPMap/index.html
